@@ -20,6 +20,6 @@
 <br />
 <br />
 
-<img align="left" alt="React" width="26px" src="https://github-readme-stats.vercel.app/api?username=nileshlad09&show_icons=true" />
+<img align="left" alt="React" width="260px" src="https://github-readme-stats.vercel.app/api?username=nileshlad09&show_icons=true" />
 ---
 
