@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer!!
 
-- 🌱 I’m currently learning React Js 
+- 🌱 I’m currently learning Node Js 
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/nilesh-lad-476216216/)
