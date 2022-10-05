@@ -4,7 +4,9 @@
 
 - 🌱 I’m currently learning Node Js
 <br/>
+
 ## My Portfolio
+
 [<img src="Portfolio.png">](https://nileshlad09.github.io/Portfolio/)
 <br/>
 
@@ -20,8 +22,8 @@
 <br />
 
 ### Coding Profile:
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"  style="padding-right:10px;"/>](https://twitter.com/Nileshlad09)
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>](https://www.instagram.com/nileshlad09/)
+[<img align="left" alt="codechef" width="100px" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"  style="padding-right:10px;"/>](https://www.codechef.com/users/nilesh_lad09)
+[<img align="left" alt="codeforces" width="100px" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>](https://codeforces.com/profile/nileshlad871)
 <br/>
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
