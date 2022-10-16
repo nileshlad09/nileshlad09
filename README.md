@@ -1,7 +1,7 @@
 [<img src="Portfolio.png">](https://nileshlad09.github.io/Portfolio/)
 <br/>
 
-## [My Portfolio ]("https://nileshlad09.github.io/Portfolio/")
+[My Portfolio ]("https://nileshlad09.github.io/Portfolio/")
 
 My name is <b> Nilesh Lad </b> and Currently, I am in the 3rd year of my course in the branch of computer engineering. I started coding in the year 2021 and love to do competitive coding specifically using C and C++ programming languages. Adding to this I am focusing on web development using the <b> MERN stack </b>. Apart from this I believe in teamwork, smart work, and carry never give up attitude. 
 
