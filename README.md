@@ -1,4 +1,4 @@
-[<img src="portfolio.png">](https://nileshlad09.github.io/portfolio/)
+[<img src="portfolio2.png">](https://nileshlad09.github.io/portfolio/)
 <br/>
 
 [My Portfolio ](https://nileshlad09.github.io/portfolio/)
