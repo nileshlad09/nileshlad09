@@ -1,7 +1,7 @@
-[<img src="portfolio2.png">](https://nileshlad09.github.io/portfolio/)
+[<img src="portfolio2.png">](https://nileshlad.vercel.app/)
 <br/>
 
-[My Portfolio ](https://nileshlad09.github.io/portfolio/)
+[My Portfolio ](https://nileshlad.vercel.app/)
 
 My name is <b> Nilesh Lad </b> and Currently, I am in the 3rd year of my course in the branch of computer engineering. I started coding in the year 2021 and love to do competitive coding specifically using C and C++ programming languages. Adding to this I am focusing on web development using the <b> MERN stack </b>. Apart from this I believe in teamwork, smart work, and carry never give up attitude. 
 
