@@ -1,4 +1,4 @@
-[<img src="portfolio2.png">](https://nileshlad.vercel.app/)
+[<img src="portfolio.png">](https://nileshlad.vercel.app/)
 <br/>
 
 [My Portfolio ](https://nileshlad.vercel.app/)
