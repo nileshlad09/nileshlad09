@@ -4,9 +4,9 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=nileshlad09&style=flat-square&color=blue"    style="padding-right:8px;" alt=""></p>
 
 
-[<img src="https://img.shields.io/badge/Portfolio-1DA1F2?logo=About.me&logoColor=white" />](https://nileshlad.vercel.app/) 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nilesh-lad-476216216/)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" />](https://twitter.com/Nileshlad09) 
+[<img src="https://img.shields.io/badge/Portfolio-1DA1F2?logo=About.me&logoColor=white" target="_blank" />](https://nileshlad.vercel.app/) 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" target="_blank" />](https://www.linkedin.com/in/nilesh-lad-476216216/)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" target="_blank"/>](https://twitter.com/Nileshlad09) 
 
 </div>
 <br/>
@@ -14,7 +14,7 @@
 
 <br/>
 
-<h3>  
+<h3 target="_blank">  
 
 Have a look at my [Portfolio](https://nileshlad.vercel.app/)  
 </h3>
@@ -36,8 +36,8 @@ Have a look at my [Portfolio](https://nileshlad.vercel.app/)
 <br>
 
 ### CODING PROFILE:
-[<img align="left" alt="codechef" width="100px" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white"  style="padding-right:8px;"/>](https://www.codechef.com/users/nilesh_lad09)
-[<img align="left" alt="codeforces" width="100px" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white"/>](https://codeforces.com/profile/nileshlad871) 
+[<img align="left" alt="codechef" width="100px" target="_blank" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white"  style="padding-right:8px;"/>](https://www.codechef.com/users/nilesh_lad09)
+[<img align="left" alt="codeforces" width="100px" target="_blank" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white"/>](https://codeforces.com/profile/nileshlad871) 
 <br/>
 <br/>
 
