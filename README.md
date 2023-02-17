@@ -7,9 +7,9 @@
 
 <p><img src="https://komarev.com/ghpvc/?username=nileshlad09&style=flat-square&color=blue" style="padding-right:10px;" alt="" height="20px"></p>
 
-[<img src="https://img.shields.io/badge/Portfolio-1DA1F2?logo=About.me&logoColor=white" target="_blank" style="padding-right:10px;" height="20px"/>](https://nileshlad.vercel.app/) 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" target="_blank" style="padding-right:10px;" height="20px"/>](https://www.linkedin.com/in/nilesh-lad-476216216/)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" target="_blank" style="padding-right:10px;" height="20px"/>](https://twitter.com/Nileshlad09) 
+[<img src="https://img.shields.io/badge/Portfolio-1DA1F2?logo=About.me&logoColor=white" target="_blank" style="padding-right:15px;" height="23px"/>](https://nileshlad.vercel.app/) 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" target="_blank" style="padding-right:15px;" height="23px"/>](https://www.linkedin.com/in/nilesh-lad-476216216/)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" target="_blank" style="padding-right:15px;" height="23px"/>](https://twitter.com/Nileshlad09) 
 </div>
 <h4> My name is <b> Nilesh Lad.</b> A self-taught, passionate and fast-learner full-stack developer from India, 🌎. Currently, I am in the 3rd year of my course in the branch of computer engineering. I started coding in the year 2021 and love to do competitive coding specifically using C and C++ programming languages. Adding to this I am focusing on web development using the <b> MERN stack </b>. Apart from this I believe in teamwork, smart work, and carry never give up attitude. </h4> 
 <h4>
@@ -28,7 +28,7 @@ Have a look at my [Portfolio](https://nileshlad.vercel.app/)
 - ⚡ Available for hackathons and internships.
 
 ### CODING PROFILE:
-[<img align="left" alt="codechef" height="25px" target="_blank" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white"  style="padding-right:10px;"/>](https://www.codechef.com/users/nilesh_lad09)
+[<img align="left" alt="codechef" height="25px" target="_blank" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white"  style="padding-right:8px;"/>](https://www.codechef.com/users/nilesh_lad09)
 [<img align="left" alt="codeforces" height="25px" target="_blank" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white"/>](https://codeforces.com/profile/nileshlad871) 
 <br/>
 <br/>
