@@ -27,63 +27,33 @@ Have a look at my [Portfolio](https://nileshlad.vercel.app/)
 
 - ⚡ Available for hackathons and internships.
 
-### CODING PROFILE:
-[<img align="left" alt="codechef" height="25px" target="_blank" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white"  style="padding-right:8px;"/>](https://www.codechef.com/users/nilesh_lad09)
-[<img align="left" alt="codeforces" height="25px" target="_blank" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white"/>](https://codeforces.com/profile/nileshlad871) 
 <br/>
-<br/>
-
-
 
 ### TECH STACK:
-#### Languages:      
-<div style="display:flex">   
+<div style="display:flex, margin-bottom:10px">   
 <img src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" style="padding-right:10px;" alt="" height="25px" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"    style="padding-right:10px;" alt="" height="25px" />
 <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E"  style="padding-right:10px;" alt="" height="25px"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white"    style="padding-right:10px;" alt="" height="25px" />
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"    style="padding-right:10px;" alt="" height="25px" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white"    style="padding-right:10px;" alt="" height="25px"  />
-</div>
-
-
-#### JS Framework/Library:      
-<div style="display:flex">   
 <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"    style="padding-right:10px;" alt="" height="25px"/>
 <img src="https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white"    style="padding-right:10px;" alt="" height="25px" />
-</div>
-
- 
-        
-#### CSS Framework/Library/Pre-processors:        
-<div style="display:flex">  
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"    style="padding-right:10px;" alt="" height="25px" />
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white"    style="padding-right:10px;" alt="" height="25px" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white"    style="padding-right:10px;" alt="" height="25px" />
-</div>   
-
-        
-#### Database:       
-<div style="display:flex">  
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white"    style="padding-right:10px;" alt="" height="25px" />
 <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white"    style="padding-right:10px;" alt="" height="25px" />
 <img src="https://img.shields.io/badge/firebase-ffca28?logo=firebase&logoColor=black"    style="padding-right:10px;" alt="" height="25px" />
-</div>   
-
-
-#### Backend:
-<div style="display:flex">  
 <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"    style="padding-right:10px;" alt="" height="25px" />
 <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" style="padding-right:10px;" alt="" height="25px" />
-</div>   
-
-#### Version Control:       
-<div style="display:flex">  
 <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white"    style="padding-right:10px;" alt="" height="25px" />
 <img src="https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white"    style="padding-right:10px;" alt="" height="25px" />
-</div> 
+</div>
+<br/>
 
-### GitHub stats:
+
+### GitHub Stats:
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=nileshlad09&show_icons=true&include_all_commits=true&theme=vision-friendly-dark"/>|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshlad09&layout=compact&theme=vision-friendly-dark" />|
 | ------------- | ------------- |
 <p align="center">
