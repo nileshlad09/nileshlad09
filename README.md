@@ -30,9 +30,10 @@ Have a look at my [Portfolio](https://nileshlad.vercel.app/)
 <br/>
 
 ### TECH STACK:
+
 <div style="display:flex, margin-bottom:10px">   
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="padding:0 15px 15px 0;" alt="" height="25px" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"    style="padding:0 15px 15px 0" alt="" height="25px" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="padding:0 15px 15px 0" alt="" height="25px" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  style="padding:0 15px 15px 0" alt="" height="25px"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"    style="padding:0 15px 15px 0" alt="" height="25px" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"    style="padding:0 15px 15px 0" alt="" height="25px" />
@@ -57,8 +58,6 @@ Have a look at my [Portfolio](https://nileshlad.vercel.app/)
 ### GitHub Stats:
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=nileshlad09&show_icons=true&include_all_commits=true&theme=vision-friendly-dark"/>|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshlad09&layout=compact&theme=vision-friendly-dark" />|
 | ------------- | ------------- |
-<p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=nileshlad09&theme=highcontrast"/>
-</p>
+
 
 
