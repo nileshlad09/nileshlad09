@@ -9,7 +9,10 @@
 
 [<img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" style="padding-right:15px;" height="23px"/>](https://nileshlad.vercel.app/) 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="padding-right:15px;" height="23px"/>](https://www.linkedin.com/in/nilesh-lad-476216216/)
+[<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" target="_blank" style="padding-right:15px;" height="23px"/>](https://auth.geeksforgeeks.org/user/nileshlad871/) 
+[<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" style="padding-right:15px;" height="23px"/>](https://leetcode.com/nileshlad09/) 
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" style="padding-right:15px;" height="23px"/>](https://twitter.com/Nileshlad09) 
+
 </div>
 <h4> My name is <b> Nilesh Lad.</b> A self-taught, passionate and fast-learner full-stack developer from India, 🌎. Currently, I am in the 3rd year of my course in the branch of computer engineering. I started coding in the year 2021 and love to do competitive coding specifically using C and C++ programming languages. Adding to this I am focusing on web development using the <b> MERN stack </b>. Apart from this I believe in teamwork, smart work, and carry never give up attitude. </h4> 
 <h4>
