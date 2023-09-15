@@ -58,9 +58,16 @@ Have a look at my [Portfolio](https://nileshlad.vercel.app/)
 </div>
 <br/>
 
-### GitHub Stats:
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=nileshlad09&show_icons=true&include_all_commits=true&theme=vision-friendly-dark"/>|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshlad09&layout=compact&theme=vision-friendly-dark" />|
+
+
+|<img align="center" src="https://leetcode-badge-showcase.vercel.app/api?username=nileshlad09&theme=dark"/>|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshlad09&layout=compact&theme=vision-friendly-dark" />|
 | ------------- | ------------- |
+
+### GitHub Stats:
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nileshlad09&show_icons=true&include_all_commits=true&theme=vision-friendly-dark"/>
+
+
+
 
 
 
